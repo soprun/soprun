@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I am a Technical Architect!
-
+Vladislav Soprun, Technical Architect
 
 
 ![soprun GitHub Stats](https://github-readme-stats.vercel.app/api?username=soprun&include_all_commits=true&hide=contribs&show_icons=true&count_private=true)
