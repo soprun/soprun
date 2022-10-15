@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-Vladislav Soprun, Technical Architect
+Vladislav Soprun, Solution Architect
 
+Subscribe to my Telegram channel https://t.me/soprun_architect
 
 ![soprun GitHub Stats](https://github-readme-stats.vercel.app/api?username=soprun&include_all_commits=true&hide=contribs&show_icons=true&count_private=true)
 
